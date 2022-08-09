@@ -1,0 +1,505 @@
+﻿#EXTINF:-1 tvg-id="LCH1" tvg-name="M1 SD" timeshift="{TIMESHIFT}" tvg-logo="https://wp15-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_75_c_d2833062eaff6dc96b18f25694620e09.png" group-title="MAGYARORSZÁG",M1 SD
+http://90.64.95.225:8001/1:0:1:618:5:1:E080000:0:0:0:
+#EXTINF:-1 tvg-id="LCH1" tvg-name="M1 HD" timeshift="{TIMESHIFT}" tvg-logo="https://wp9-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_85_c_4358a60096362522a82f67eb6540c361.png" group-title="MAGYARORSZÁG",M1 HD
+http://90.64.95.225:8001/1:0:1:618:5:1:E080000:0:0:0:
+#EXTINF:-1 tvg-id="LCH2" tvg-name="M2 SD" timeshift="{TIMESHIFT}" tvg-logo="https://wp17-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_86_c_c9681d1c865d31cdad3a6b0776022eb4.png" group-title="MAGYARORSZÁG",M2 SD
+http://90.64.95.225:8001/1:0:1:A8C:5:1:E080000:0:0:0:
+#EXTINF:-1 tvg-id="LCH2" tvg-name="M2 HD" timeshift="{TIMESHIFT}" tvg-logo="https://wp17-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_86_c_c9681d1c865d31cdad3a6b0776022eb4.png" group-title="MAGYARORSZÁG",M2 HD
+http://90.64.95.225:8001/1:0:1:A8C:5:1:E080000:0:0:0:
+#EXTINF:-1 tvg-id="LCH29" tvg-name="DUNA TV" timeshift="{TIMESHIFT}" tvg-logo="https://wp24-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_68_c_f722c641cc8eee9954c7d17090dbb352.png" group-title="MAGYARORSZÁG",DUNA TV
+http://90.64.95.225:8001/1:0:19:7919:2C6:600:E080000:0:0:0:
+#EXTINF:-1 tvg-id="LCH29" tvg-name="DUNA TV HD" timeshift="{TIMESHIFT}" tvg-logo="https://wp18-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_89_c_82877b44d04c46e44442a921f5b2598e.png?w=75&h=108&mode=box" group-title="MAGYARORSZÁG",DUNA TV HD
+http://90.64.95.225:8001/1:0:19:7919:2C6:600:E080000:0:0:0:
+#EXTINF:-1 tvg-id="LCH40" tvg-name="DUNA WORLD - M4 SPORT+" timeshift="{TIMESHIFT}" tvg-logo="https://wp13-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_1_c_67a1cc500fb0219ad22022f9b6a5bdf5.png" group-title="MAGYARORSZÁG",DUNA WORLD - M4 SPORT+
+http://90.64.95.225:8001/1:0:1:7608:2BE:600:E080000:0:0:0:
+#EXTINF:-1 tvg-id="LCH40" tvg-name="DUNA WORLD HD - M4 SPORT+" timeshift="{TIMESHIFT}" tvg-logo="https://i.ibb.co/DDq10YB/duna.png" group-title="MAGYARORSZÁG",DUNA WORLD HD - M4 SPORT+
+http://90.64.95.225:8001/1:0:1:7608:2BE:600:E080000:0:0:0:
+#EXTINF:-1 tvg-id="LCH57" tvg-name="M4 SPORT SD" timeshift="{TIMESHIFT}" tvg-logo="https://wp19-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_135_c_56848362068d94e5bc5a646bc68c4b51.png" group-title="MAGYARORSZÁG",M4 SPORT SD
+http://90.64.95.225:8001/1:0:1:DA2:C:1:E080000:0:0:0:
+#EXTINF:-1 tvg-id="LCH57" tvg-name="M4 SPORT HD" timeshift="{TIMESHIFT}" tvg-logo="https://wp19-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_135_c_56848362068d94e5bc5a646bc68c4b51.png" group-title="MAGYARORSZÁG",M4 SPORT HD
+http://90.64.95.225:8001/1:0:1:DA2:C:1:E080000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="HU: M5 SD" timeshift="{TIMESHIFT}" tvg-logo="" group-title="HUN BACKUP ROYAL", M5 SD
+http://90.64.95.225:8001/1:0:19:773A:2C1:600:E080000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="HU: M5 HD" timeshift="{TIMESHIFT}" tvg-logo="" group-title="HUN BACKUP ROYAL", M5 HD
+http://90.64.95.225:8001/1:0:19:773A:2C1:600:E080000:0:0:0:
+#EXTINF:-1 tvg-id="RTLKlub.hu" tvg-name="RTL KLUB SD" timeshift="{TIMESHIFT}" tvg-logo="https://wp6-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_79_c_a3d559aa63f5f7892b903d4e19d03d6a.png" group-title="MAGYARORSZÁG",RTL KLUB SD
+http://90.64.95.225:8001/1:0:1:7601:2BE:600:E080000:0:0:0:
+#EXTINF:-1 tvg-id="LCH43" tvg-name="RTL KLUB HD" timeshift="{TIMESHIFT}" tvg-logo="https://wp6-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_79_c_a3d559aa63f5f7892b903d4e19d03d6a.png" group-title="MAGYARORSZÁG",RTL KLUB HD
+http://90.64.95.225:8001/1:0:19:7728:2C1:600:E080000:0:0:0:
+#EXTINF:-1 tvg-id="LCH11" tvg-name="TV2 SD" timeshift="{TIMESHIFT}" tvg-logo="https://wp2-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_88_c_c21cbfdbb04c8685b46b96f728fcce44.png" group-title="MAGYARORSZÁG",TV2 SD
+http://90.64.95.225:8001/1:0:1:7602:2BE:600:E080000:0:0:0:
+#EXTINF:-1 tvg-id="LCH11" tvg-name="TV2 HD" timeshift="{TIMESHIFT}" tvg-logo="https://wp2-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_88_c_c21cbfdbb04c8685b46b96f728fcce44.png" group-title="MAGYARORSZÁG",TV2 HD
+http://90.64.95.225:8001/1:0:1:FBE:D:1:E080000:0:0:0:
+#EXTINF:-1 tvg-id="LCH12" tvg-name="SUPER TV2 SD" timeshift="{TIMESHIFT}" tvg-logo="https://wp23-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_4_c_b1e9b194148e6807313e4f0857023c44.png" group-title="MAGYARORSZÁG",SUPER TV2 SD
+http://90.64.95.225:8001/1:0:1:555:4:1:E080000:0:0:0:
+#EXTINF:-1 tvg-id="moziplus.hu" tvg-name="MOZI +" timeshift="{TIMESHIFT}" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mozi%2B_logo.svg/1200px-Mozi%2B_logo.svg.png" group-title="MAGYARORSZ�G",MOZI +
+http://90.64.95.225:8001/1:0:1:406:2:1:E080000:0:0:0:
+#EXTINF:-1 tvg-id="DikhTV.hu" tvg-name="DIKH TV" timeshift="{TIMESHIFT}" tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/dikhtv_wide.png?itok=NU43c6Y9" group-title="MAGYARORSZÁG",DIKH TV
+http://152.66.115.226:33390/bysid/205
+#EXTINF:-1 tvg-id="atv.hu" tvg-name="ATV" timeshift="{TIMESHIFT}" tvg-logo="https://wp3-images-hu-dynamic.horizon.tv/HU/Logos/focused/atv.png" group-title="MAGYARORSZÁG",ATV
+http://90.64.95.225:8001/1:0:1:7603:2BE:600:E080000:0:0:0:
+#EXTINF:-1 tvg-id="atv.hu" tvg-name="ATV HD" timeshift="{TIMESHIFT}" tvg-logo="https://wp23-images-hu-dynamic.horizon.tv/HU/Logos/focused/atv_hd.png" group-title="MAGYARORSZÁG",ATV HD
+http://90.64.95.225:8001/1:0:1:7603:2BE:600:E080000:0:0:0:
+#EXTINF:-1 tvg-id="atvspirit.hu" tvg-name="ATV SPIRIT" timeshift="{TIMESHIFT}" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/ATVSpirit_logo.png" group-title="MAGYARORSZÁG",ATV SPIRIT
+http://90.64.95.225:8001/1:0:1:75FF:2BE:600:E080000:0:0:0:
+#EXTINF:-1 tvg-id="atvspirit.hu" tvg-name="ATV SPIRIT HD" timeshift="{TIMESHIFT}" tvg-logo="https://media1.hu/wp-content/uploads/2020/01/atvspiritlogo.png" group-title="MAGYARORSZÁG",ATV SPIRIT HD
+http://90.64.95.225:8001/1:0:1:75FF:2BE:600:E080000:0:0:0:
+#EXTINF:-1 tvg-id="prime.hu" tvg-name="PRIME" timeshift="{TIMESHIFT}" tvg-logo="https://wp5-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_12_c_5ca636e5e0f79decd42f269308668bed.png" group-title="MAGYARORSZÁG",PRIME
+http://90.64.95.225:8001/1:0:1:78C0:2C5:600:E080000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="HU: AXN SD" timeshift="{TIMESHIFT}" tvg-logo="" group-title="HUN BACKUP ROYAL", AXN SD
+http://90.64.95.225:8001/1:0:1:2AFC:B:1111:E080000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="HU: AXN HD" timeshift="{TIMESHIFT}" tvg-logo="" group-title="HUN BACKUP ROYAL", AXN HD
+http://90.64.95.225:8001/1:0:1:2AFC:B:1111:E080000:0:0:0:
+#EXTINF:-1 tvg-id="filmplus.hu" tvg-name="FILM+" timeshift="{TIMESHIFT}" tvg-logo="https://wp7-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_70_c_d9f427b1c54449c2ffc8e16acebaa0e4.png" group-title="MAGYARORSZÁG",FILM+
+http://90.64.95.225:8001/1:0:1:75FB:2BE:600:E080000:0:0:0:
+#EXTINF:-1 tvg-id="filmplus.hu" tvg-name="FILM+ HD" timeshift="{TIMESHIFT}" tvg-logo="https://wp20-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_149_c_4481f1f32753ee30de0da495bfa9862e.png" group-title="MAGYARORSZÁG",FILM+ HD
+https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8
+#EXTINF: -1,Direct One
+http://90.64.95.225:8001/1:0:1:79E1:2C8:600:E080000:0:0:0:
+#EXTINF:-1 tvg-id="epicdrama.hu" tvg-name="EPIC DRAMA HD" timeshift="{TIMESHIFT}" tvg-logo="https://image.pngaaa.com/398/2715398-small.png" group-title="MAGYARORSZÁG",EPIC DRAMA HD
+http://90.64.95.225:8001/1:0:19:1B63:AF7:BB:E080000:0:0:0:
+#EXTINF:-1 tvg-id="cool.hu" tvg-name="COOL" timeshift="{TIMESHIFT}" tvg-logo="https://wp6-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_66_c_b0512fcf56051fb60e240a360ced3a57.png" group-title="MAGYARORSZÁG",COOL
+http://90.64.95.225:8001/1:0:1:7613:2BE:600:E080000:0:0:0:
+#EXTINF:-1 tvg-id="cool.hu" tvg-name="COOL HD" timeshift="{TIMESHIFT}" tvg-logo="https://invinetwork.hu/csatornak_img_nevvel/coolhd.png" group-title="MAGYARORSZÁG",COOL HD
+https://stream.y5.hu/stream/stream_cool/hls1/stream.m3u8
+http://royal-cdn.eu:8080/RolandKothencz/eBMyEktr/92
+#EXTINF:-1 tvg-id="rtlgold.hu" tvg-name="RTL GOLD" timeshift="{TIMESHIFT}" tvg-logo="https://wp6-images-hu-dynamic.horizon.tv/HU/Logos/focused/RTL_GOLD_c.png" group-title="MAGYARORSZÁG",RTL GOLD
+http://90.64.95.225:8001/1:0:1:79F3:2C8:600:E080000:0:0:0:
+#EXTINF:-1 tvg-id="rtlplus.hu" tvg-name="RTL+" timeshift="{TIMESHIFT}" tvg-logo="https://wp26-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_77_c_935916ef1d0f9335bd4cf4b2df2e0700.png" group-title="MAGYARORSZÁG",RTL+
+http://90.64.95.225:8001/1:0:1:79ED:2C8:600:E080000:0:0:0:
+#EXTINF:-1 tvg-id="rtlplus.hu" tvg-name="RTL+ HD" timeshift="{TIMESHIFT}" tvg-logo="https://www.telenet.hu/images/upload/channel_logo/rtlhd.png" group-title="MAGYARORSZÁG",RTL+ HD
+https://stream.y5.hu/stream/stream_rtlp/stream.m3u8
+#EXTINF:-1 tvg-id="LCH46" tvg-name="RTL2 SD" timeshift="{TIMESHIFT}" tvg-logo="https://wp19-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_107_c_1cae97d83ed8c6dd05e6b5b6952b31fb.png" group-title="MAGYARORSZÁG",RTL2 SD
+http://90.64.95.225:8001/1:0:1:79EC:2C8:600:E080000:0:0:0:
+#EXTINF:-1 tvg-id="rtl2.hu" tvg-name="RTL2 HD" timeshift="{TIMESHIFT}" tvg-logo="https://wp21-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_148_c_f97f7d2861d60b52c113e62ba6f48539.png" group-title="MAGYARORSZÁG",RTL2 HD
+https://stream.y5.hu/stream/stream_rtl2/hls1/stream.m3u8
+#EXTINF:-1 tvg-id="sorozatplus.hu" tvg-name="SOROZAT+" timeshift="{TIMESHIFT}" tvg-logo="https://wp9-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_80_c_b58a5822b41a199dad72018a612e03ab.png" group-title="MAGYARORSZÁG",SOROZAT+
+http://90.64.95.225:8001/1:0:1:79EE:2C8:600:E080000:0:0:0:
+#EXTINF:-1 tvg-id="hbo.hu" tvg-name="HBO" timeshift="{TIMESHIFT}" tvg-logo="https://wp6-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_54_c_8fbca6ff1964a45dfeb5bb287453fc2a.png" group-title="MAGYARORSZÁG",HBO
+http://90.64.95.225:8001/1:0:1:A64:5:1:E080000:0:0:0:
+#EXTINF:-1 tvg-id="hbo2.hu" tvg-name="HBO 2" timeshift="{TIMESHIFT}" tvg-logo="https://wp4-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_55_c_8e0ece8d8843603ea5711c724413d475.png" group-title="MAGYARORSZÁG",HBO 2
+http://90.64.95.225:8001/1:0:1:77F1:2C3:600:E080000:0:0:0:
+#EXTINF:-1 tvg-id="hbo3.hu" tvg-name="HBO 3" timeshift="{TIMESHIFT}" tvg-logo="https://wp24-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_56_c_2c8b41c50b1a67e73ccf240b246102e3.png" group-title="MAGYARORSZÁG",HBO 3
+http://90.64.95.225:8001/1:0:1:D98:C:1:E080000:0:0:0:
+#EXTINF: -1,HBO Zone HD
+http://www.bestsat.pw:80/Hotbot336/ha4SGYIRLQ/2948
+#EXTINF:-1 tvg-id="hirtv.hu" tvg-name="HIR TV SD" timeshift="{TIMESHIFT}" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hir_TV.svg/1200px-Hir_TV.svg.png" group-title="MAGYARORSZÁG",HIR TV SD
+http://90.64.95.225:8001/1:0:1:7596:2BD:600:E080000:0:0:0:
+#EXTINF:-1 tvg-id="hirtv.hu" tvg-name="HIR TV HD" timeshift="{TIMESHIFT}" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hir_TV.svg/1200px-Hir_TV.svg.png" group-title="MAGYARORSZÁG",HIR TV HD
+https://stream.hirtv.hu:443/live.php.m3u8
+#EXTINF:-1 tvg-id="amc.hu" tvg-name="AMC" timeshift="{TIMESHIFT}" tvg-logo="https://wp15-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_10_c_1ea569f3a9e35cc16d8b3b175946fd50.png" group-title="MAGYARORSZÁG",AMC
+http://90.64.95.225:8001/1:0:1:7981:2C7:600:E080000:0:0:0:
+#EXTINF:-1 tvg-id="KiwiTV.hu" tvg-name="TV2 KIDS" timeshift="{TIMESHIFT}" tvg-logo="https://wp24-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_150_c_c9e4365f56a541b050dc88c97f955cdc.png" group-title="MAGYARORSZÁG",TV2 KIDS
+http://90.64.95.225:8001/1:0:1:7998:2C7:600:E080000:0:0:0:
+#EXTINF:-1 tvg-id="tv2comedy.hu" tvg-name="TV2 COMEDY" timeshift="{TIMESHIFT}" tvg-logo="https://wp11-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_152_c_fdb09ce8eca93bb130b1176738a31a6c.png" group-title="MAGYARORSZÁG",TV2 COMEDY
+http://90.64.95.225:8001/1:0:1:798D:2C7:600:E080000:0:0:0:
+#EXTINF:-1 tvg-id="film4.hu" tvg-name="FILM 4 HD" timeshift="{TIMESHIFT}" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Film4_logo.png" group-title="MAGYARORSZÁG",FILM 4 HD
+http://90.64.95.225:8001/1:0:1:CEE:3:1:E080000:0:0:0:
+#EXTINF:-1 tvg-id="film4.hu" tvg-name="FILM 4" timeshift="{TIMESHIFT}" tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/film4_wide.png?itok=uSB7Zqw8" group-title="MAGYARORSZÁG",FILM 4
+http://90.64.95.225:8001/1:0:1:CEE:3:1:E082F62:0:0:0:
+#EXTINF:-1 tvg-id="FilmboxFamily.hu" tvg-name="FILMBOX FAMILY" timeshift="{TIMESHIFT}" tvg-logo="https://wp28-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_60_c_7a584cb448a8b3e26bc7d2c542a4de7d.png" group-title="MAGYARORSZÁG",FILMBOX FAMILY
+http://90.64.95.225:8001/1:0:1:75F9:2BE:600:E080000:0:0:0:
+#EXTINF:-1 tvg-id="story4.hu" tvg-name="STORY 4" timeshift="{TIMESHIFT}" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Story_4_logo.png" group-title="MAGYARORSZÁG",STORY 4
+http://90.64.95.225:8001/1:0:1:77F4:2C3:600:E080000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="HGTV HD" timeshift="{TIMESHIFT}" tvg-logo="https://s.digiromania.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZWRpZ2lybzEucmNzLXJkcy5y/byUyRnN0b3JhZ2UlMkYyMDE5JTJGMTIl/MkYzMSUyRjExNDcyNjlfMTE0NzI2OV9s/b2dvLXRyYWluLWhndHYtdGVhbC0xLnBu/ZyZoYXNoPTQzNzk1Y2JhOTVkMTZlYzAyMDhiZjNlZjIwM2M4YmJh.png" group-title="MAGYARORSZÁG",HGTV HD
+http://90.64.95.225:8001/1:0:1:D52:2:1:E080000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="HU: BBC EARTH HD" timeshift="{TIMESHIFT}" tvg-logo="" group-title="HUN BACKUP ROYAL",HU: BBC EARTH HD
+http://90.64.95.225:8001/1:0:19:1C06:29:46:E080000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature  FULL HD" timeshift="{TIMESHIFT}" tvg-logo="/noicon.png" group-title="HUNGARY",Love Nature
+http://90.64.95.225:8001/1:0:1:780A:2C3:600:E080000:0:0:0:
+#EXTINF:-1 tvg-id="comedycentral.hu" tvg-name="COMEDY CENTRAL" timeshift="{TIMESHIFT}" tvg-logo="https://download.logo.wine/logo/Comedy_Central_(Asian_TV_channel)/Comedy_Central_(Asian_TV_channel)-Logo.wine.png" group-title="MAGYARORSZÁG",COMEDY CENTRAL
+http://90.64.95.225:8001/1:0:1:1F7:1B:2C0:E080000:0:0:0:
+#EXTINF:-1 tvg-id="comedycentralfamily.hu" tvg-name="COMEDY CENTRAL FAMILY" timeshift="{TIMESHIFT}" tvg-logo="https://wp1-images-hu-dynamic.horizon.tv/HU/Logos/focused/CC_Family_2.png" group-title="MAGYARORSZÁG",COMEDY CENTRAL FAMILY
+http://90.64.95.225:8001/1:0:1:1F6:1B:2C0:E080000:0:0:0:
+#EXTINF:-1 tvg-id="viasat3.hu" tvg-name="VIASAT 3" timeshift="{TIMESHIFT}" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/TV3_logo.png" group-title="MAGYARORSZÁG",VIASAT 3
+http://90.64.95.225:8001/1:0:1:2B09:B:1111:E080000:0:0:0:
+#EXTINF:-1 tvg-id="viasat6.hu" tvg-name="VIASAT 6" timeshift="{TIMESHIFT}" tvg-logo="https://wp28-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_3_c_107ecd9c076b3a1b2647379a89d504df.png" group-title="MAGYARORSZÁG",VIASAT 6
+http://90.64.95.225:8001/1:0:1:2B0A:B:1111:E080000:0:0:0:
+#EXTINF:-1 tvg-id="digiworld.hu" tvg-name="DIGI WORLD" timeshift="{TIMESHIFT}" tvg-logo="https://musor.tv/images/digiworld.jpg" group-title="MAGYARORSZÁG",DIGI WORLD
+http://90.64.95.225:8001/1:0:1:424:3:1:E080000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="HU: DIGI LIFE" timeshift="{TIMESHIFT}" tvg-logo="" group-title="HUN BACKUP ROYAL",HU: DIGI LIFE
+http://90.64.95.225:8001/1:0:1:403:2:1:E080000:0:0:0:
+#EXTINF:-1 tvg-id="digianimalworld.hu" tvg-name="DIGI ANIMAL WORLD" timeshift="{TIMESHIFT}" tvg-logo="https://musor.tv/images/digianimal.jpg" group-title="MAGYARORSZÁG",DIGI ANIMAL WORLD
+http://90.64.95.225:8001/1:0:1:177A:7:1:E080000:0:0:0:
+#EXTINF:-1, MATCH4 
+http://90.64.95.225:8001/1:0:1:49C:3:1:E080000:0:0:0:
+#EXTINF:-1 tvg-id="eurosport1.sk" tvg-name="Eurosport 1 HD" timeshift="{TIMESHIFT}" tvg-logo="/noicon.png" group-title="CZECH+SLOVAK",Eurosport 1 HDhttp://90.64.95.225:8001/1:0:19:7DF:AF2:BB:E080000:0:0:0:
+#EXTINF:-1 tvg-id="eurosport2.sk" tvg-name="Eurosport 2 HD" timeshift="{TIMESHIFT}" tvg-logo="/noicon.png" group-title="CZECH+SLOVAK",Eurosport 2 HD
+http://90.64.95.225:8001/1:0:1:B22:7:1:E080000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="HU: Ozone Network" timeshift="{TIMESHIFT}" tvg-logo="" group-title="HUN BACKUP ROYAL",HU: Ozone Network
+http://90.64.95.225:8001/1:0:1:A82:4:1:E080000:0:0:0:
+#EXTINF:-1 tvg-id="digifilm.hu" tvg-name="FILM NOW" timeshift="{TIMESHIFT}" tvg-logo="https://media.port.hu/images/000/431/100x100/871.jpg" group-title="MAGYARORSZÁG",FILM NOW
+http://90.64.95.225:8001/1:0:1:41A:3:1:E080000:0:0:0:
+#EXTINF:-1 tvg-id="cbsreality.hu" tvg-name="CBS REALITY" timeshift="{TIMESHIFT}" tvg-logo="https://wp23-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_29_c_eab7e22223b2f21783db42169b86697d.png" group-title="MAGYARORSZÁG",CBS REALITY
+http://90.64.95.225:8001/1:0:1:408:2:1:E080000:0:0:0:
+https://onlinestream.live/logos/6725.png 
+#EXTINF: -1,REGIO TV
+http://tv.geniusnet.sk:8081/regiotv/pl.m3u8
+https://onlinestream.live/logos/1821.png
+#EXTINF: -1,Gyongyosi TV
+https://cloudfront41.lexanetwork.com:1344/relay02/livestream005.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="sport1.hu" tvg-name="SPORT 1" timeshift="{TIMESHIFT}" tvg-logo="https://wp21-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_95_c_81d797dc1875a4b226601ce9bae320b4.png" group-title="MAGYARORSZÁG",SPORT 1
+http://90.64.95.225:8001/1:0:1:7598:2BD:600:E080000:0:0:0:
+#EXTINF:-1 tvg-id="sport2.hu" tvg-name="SPORT 2" timeshift="{TIMESHIFT}" tvg-logo="https://wp13-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_113_c_2232d2bfa790148e5396e4e80ac9c84f.png" group-title="MAGYARORSZÁG",SPORT 2
+http://90.64.95.225:8001/1:0:1:75FD:2BE:600:E080000:0:0:0:
+#EXTINF:-1 tvg-id="LCH71" tvg-name="SPILER 1" timeshift="{TIMESHIFT}" tvg-logo="https://wp12-images-hu-dynamic.horizon.tv/HU/Logos/focused/Spiler1_HD.png" group-title="MAGYARORSZÁG",SPILER 1
+http://90.64.95.225:8001/1:0:1:7610:2BE:600:E080000:0:0:0:
+#EXTINF:-1 tvg-id="LCH170" tvg-name="SPILER 2" timeshift="{TIMESHIFT}" tvg-logo="https://wp7-images-hu-dynamic.horizon.tv/HU/Logos/focused/sp_ler2_tv_hd.png" group-title="MAGYARORSZÁG",SPILER 2
+http://90.64.95.225:8001/1:0:1:75B0:2BD:600:E080000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="HU: Auto Motor Sport Channel" timeshift="{TIMESHIFT}" tvg-logo="" group-title="HUN BACKUP ROYAL",HU: Auto Motor Sport Channel
+http://90.64.95.225:8001/1:0:19:17D7:C91:3:EB0000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="HU: BOOMERANG" timeshift="{TIMESHIFT}" tvg-logo="" group-title="HUN BACKUP ROYAL",HU: BOOMERANG
+http://90.64.95.225:8001/1:0:1:77F6:2C3:600:E080000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="HU: NICKELODEON" timeshift="{TIMESHIFT}" tvg-logo="" group-title="HUN BACKUP ROYAL",HU: NICKELODEON
+http://90.64.95.225:8001/1:0:1:1F9:1B:2C0:E080000:0:0:0:
+#EXTINF:-1 tvg-id="nicktoons.hu" tvg-name="NICKTOONS" timeshift="{TIMESHIFT}" tvg-logo="https://e7.pngegg.com/pngimages/454/584/png-clipart-nickelodeon-studios-logo-television-nicktoons-nickelodeon-tv-shows-2016-television-text.png" group-title="MAGYARORSZÁG",NICKTOONS
+http://90.64.95.225:8001/1:0:1:77B2:2C2:600:E080000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="TEEN NICK" timeshift="{TIMESHIFT}" tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/teennick_wide.png?itok=1dbv9_Tk" group-title="MAGYARORSZÁG",TEEN NICK
+http://90.64.95.225:8001/1:0:1:77AB:2C2:600:E080000:0:0:0:
+#EXTINF:-1 tvg-id="" tvg-name="HU: Nick Jr" timeshift="{TIMESHIFT}" tvg-logo="" group-title="HUN BACKUP ROYAL",HU: Nick Jr
+http://90.64.95.225:8001/1:0:1:77AD:2C2:600:E080000:0:0:0:
+#EXTINF: -1,Nickmusic
+http://90.64.95.225:8001/1:0:1:79F0:2C8:600:E080000:0:0:0:
+#EXTINF:-1 tvg-id="davincilearning.hu" tvg-name="DA VINCI" timeshift="{TIMESHIFT}" tvg-logo="https://wp11-images-hu-dynamic.horizon.tv/HU/Logos/focused/davinci_tv.png" group-title="MAGYARORSZÁG",DA VINCI
+http://90.64.95.225:8001/1:0:1:B90:7:1:E080000:0:0:0:
+#EXTINF:-1 tvg-id="jimjam.hu" tvg-name="JIM JAM" timeshift="{TIMESHIFT}" tvg-logo="https://wp8-images-hu-dynamic.horizon.tv/HU/Logos/focused/461_52_c_1e53ffb303119039226c2fcaf7506b9e.png" group-title="MAGYARORSZÁG",JIM JAM
+http://90.64.95.225:8001/1:0:1:7597:2BD:600:E080000:0:0:0
+#EXTINF: -1,MINIMAX HD
+http://90.64.95.225:8001/1:0:1:7605:2BE:600:E080000:0:0:0:
+#EXTINF: -1,Duck TV
+http://90.64.95.225:8001/1:0:1:77F9:2C3:600:E080000:0:0:0:
+#EXTINF: -1,Arena 4
+http://90.64.95.225:8001/1:0:1:78D5:2C5:600:E080000:0:0:0:#EXTINF: -1,Cartoon Network
+http://90.64.95.225:8001/1:0:1:797E:2C7:600:E080000:0:0:0:
+#EXTINF: -1,Paramount Network
+http://90.64.95.225:8001/1:0:1:1F5:1B:2C0:E080000:0:0:0:
+#EXTINF: -1,Pax TV
+http://90.64.95.225:8001/1:0:1:402:2:1:E080000:0:0:0:
+#EXTINF: -1,TV2 Sef
+http://90.64.95.225:8001/1:0:1:797F:2C7:600:E080000:0:0:0:
+#EXTINF: -1,Fishing & Hunting
+http://90.64.95.225:8001/1:0:1:A0A:5:1:E082E09:0:0:0:
+#EXTINF: -1,Kisk?r?s TV
+https://5cd03f21c7193.streamlock.net:443/kiskorostv/korostvlive/playlist.m3u8
+#EXTINF: -1,Discovery Channel
+http://90.64.95.225:8001/1:0:1:1004:5:1:E080000:0:0:0:
+#EXTINF: -1,MTV 80s
+http://90.64.95.225:8001/1:0:1:1FE:1B:2C0:E080000:0:0:0:
+#EXTINF: -1,MTV 90s
+http://90.64.95.225:8001/1:0:1:1FF:1B:2C0:E080000:0:0:0:
+#EXTINF: -1,MTV Hits
+http://90.64.95.225:8001/1:0:1:1FC:1B:2C0:E080000:0:0:0:
+#EXTINF: -1,Club MTV
+http://90.64.95.225:8001/1:0:1:1FD:1B:2C0:E080000:0:0:0:
+#EXTINF: -1,MTV 00s
+http://90.64.95.225:8001/1:0:1:1FB:1B:2C0:E080000:0:0:0:
+#EXTINF: -1,Bonum TV
+https://stream.y5.hu/stream/stream_bonum/stream.m3u8
+#EXTINF: -1,Apostol TV
+http://lotintv4k.com:80/MahmudAslami/IQ3KTIBIQA/6594
+#EXTINF: -1,Stingray iConcerts
+http://90.64.95.225:8001/1:0:1:78D3:2C5:600:E080000:0:0:0:
+#EXTINF: -1,Hegyvidek TV
+https://tv.hegyvidek.hu/hvtv/hvstream.m3u8
+#EXTINF: -1,Cinemax
+http://90.64.95.225:8001/1:0:1:77F5:2C3:600:E080000:0:0:0:
+#EXTINF: -1,Cinemax2
+http://90.64.95.225:8001/1:0:1:78C2:2C5:600:E080000:0:0:0:
+#EXTINF: -1,Viasat History
+http://90.64.95.225:8001/1:0:1:7982:2C7:600:E080000:0:0:0:
+#EXTINF: -1,Viasat Explore
+http://90.64.95.225:8001/1:0:1:78B8:2C5:600:E080000:0:0:0:
+#EXTINF: -1,Viasat Nature
+http://90.64.95.225:8001/1:0:1:622:3:1:E080000:0:0:0:
+#EXTINF: -1,Disney Channel
+http://90.64.95.225:8001/1:0:1:7803:2C3:600:E080000:0:0:0:
+#EXTINF: -1,FilmBox Stars
+http://90.64.95.225:8001/1:0:1:7609:2BE:600:E080000:0:0:0:
+#EXTINF: -1,FilmBox Extra HD
+http://90.64.95.225:8001/1:0:19:3C2E:C90:3:EB0000:0:0:0:
+#EXTINF: -1,TLC
+http://90.64.95.225:8001/1:0:1:78CF:2C5:600:E080000:0:0:0:
+#EXTINF: -1,AXN Black
+http://90.64.95.225:8001/1:0:1:2AFB:B:1111:E080000:0:0:0:
+#EXTINF: -1,TV Paprika
+http://90.64.95.225:8001/1:0:1:75A0:2BD:600:E080000:0:0:0:
+#EXTINF: -1,H!T Music Channel
+http://90.64.95.225:8001/1:0:1:A1E:5:1:E080000:0:0:0:
+#EXTINF: -1,Slager TV
+http://90.64.95.225:8001/1:0:1:100E:3:1:E080000:0:0:0:
+#EXTINF: -1,Mezzo HD
+http://90.64.95.225:8001/1:0:1:3F0:1:1:E08318F:0:0:0:
+#EXTINF: -1,Szolnok TV HD
+https://cloudfront44.lexanetwork.com:1344/freerelay/szolnoktv.sdp/playlist.m3u8
+#EXTINF: -1,Bajai TV
+https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
+#EXTINF: -1,Bicskei TV
+https://cloudfront63.lexanetwork.com:1344/relay02/livestream003.sdp/playlist.m3u8
+#EXTINF: -1,Halom TV
+http://stream.battanet.hu:8080/hls/livestream1/index.m3u8
+#EXTINF: -1,Pannon RTV
+https://stream.unrealhosting.hu:4102/live.m3u8
+#EXTINF: -1,Licium TV
+http://193.225.32.62:8890/live.m3u8
+#EXTINF: -1,Muzsika TV 
+http://90.64.95.225:8001/1:0:1:79EF:2C8:600:E080000:0:0:0:
+#EXTINF: -1,Izaura TV
+http://90.64.95.225:8001/1:0:1:79F7:2C8:600:E080000:0:0:0:
+#EXTINF: -1,FilmBox
+http://90.64.95.225:8001/1:0:1:77FA:2C3:600:E080000:0:0:0:
+#EXTINF: -1,Viasat2
+http://90.64.95.225:8001/1:0:1:2B0B:B:1111:E080000:0:0:0:
+#EXTINF: -1,Viasat Film
+http://90.64.95.225:8001/1:0:1:2B0C:B:1111:E080000:0:0:0:
+#EXTINF: -1,Film Cafe
+http://90.64.95.225:8001/1:0:1:75FE:2BE:600:E080000:0:0:0:
+#EXTINF: -1,Film Mania
+http://90.64.95.225:8001/1:0:1:76CF:2C0:600:E080000:0:0:0:
+#EXTINF: -1,TV4
+http://90.64.95.225:8001/1:0:1:7989:2C7:600:E080000:0:0:0:
+#EXTINF: -1,Life 
+http://90.64.95.225:8001/1:0:1:77F3:2C3:600:E080000:0:0:0:
+#EXTINF: -1,Fix TV
+https://fixhd.tv:8082/fix/1080i/playlist.m3u8
+#EXTINF: -1,Spektrum Home
+http://90.64.95.225:8001/1:0:1:B77:5:1:E080000:0:0:0:
+#EXTINF: -1,Jocky TV
+http://90.64.95.225:8001/1:0:1:75AA:2BD:600:E080000:0:0:0:
+#EXTINF: -1,Moziverzum
+http://90.64.95.225:8001/1:0:19:75B1:2BD:600:E080000:0:0:0:
+#EXTINF: -1,Extreme Sport
+http://90.64.95.225:8001/1:0:1:77ED:2C3:600:E080000:0:0:0:
+#EXTINF: -1,FilmBox Premium
+http://90.64.95.225:8001/1:0:16:772B:2C1:600:E080000:0:0:0:
+#EXTINF: -1,Galaxy4
+http://90.64.95.225:8001/1:0:1:A96:3:1:E080000:0:0:0:
+#EXTINF: -1,Zenebutik
+http://90.64.95.225:8001/1:0:1:7993:2C7:600:E080000:0:0:0:
+#EXTINF: -1,Bonum TV
+http://stream.y5.hu/stream/stream_bonum/stream.m3u8
+#EXTINF: -1,FEM 3
+http://90.64.95.225:8001/1:0:1:78BA:2C5:600:E080000:0:0:0:
+#EXTINF: -1,Travel Channel
+http://90.64.95.225:8001/1:0:1:A5A:7:1:E080000:0:0:0:
+#EXTINF: -1,Nat Geo
+http://90.64.95.225:8001/1:0:1:7980:2C7:600:E080000:0:0:0:
+#EXTINF: -1,Nat Geo Wild
+http://90.64.95.225:8001/1:0:1:1018:3:1:E080000:0:0:0:
+#EXTINF: -1,Private TV
+http://90.64.95.225:8001/1:0:1:78BD:2C5:600:E080000:0:0:0:
+#EXTINF: -1,Blue Hustler
+http://90.64.95.225:8001/1:0:1:78C3:2C5:600:E080000:0:0:0:
+#EXTINF: -1,Vixen TV
+http://90.64.95.225:8001/1:0:19:7665:2BF:600:E080000:0:0:0:
+#EXTINF: -1,MinDig TV info
+http://152.66.115.226:33390/bysid/208
+#EXTINF: -1,Nickelodeon Ukraine Pluto TV
+http://siloh-sp.plutotv.net/lilo/production/NickUkraine/master.m3u8
+#EXTINF: -1,Nick Pluto TV
+https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
+#EXTINF: -1,TRT Cocuk
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF: -1,TRT 2
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF: -1,TRT M�zik
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF: -1,######KIDS######
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+#EXTINF: -1,Kika HD
+http://90.64.95.225:8001/1:0:19:2B98:3F2:1:C00000:0:0:0:
+#EXTINF: -1,Baby TV
+http://90.64.95.225:8001/1:0:1:749C:41C:1:C00000:0:0:0:
+#EXTINF: -1,RTL Kockica
+http://90.64.95.225:8001/1:0:16:15:1:40:A00000:0:0:0:
+#EXTINF: -1,Junior TV
+http://90.64.95.225:8001/1:0:16:13:2:85:C00000:0:0:0:
+#EXTINF: -1,Ric
+http://90.64.95.225:8001/1:0:1:32DB:45D:1:C00000:0:0:0:
+#EXTINF: -1,Boomerang ENG
+http://90.64.95.225:8001/1:0:16:33:1:40:a00000:0:0:0:
+#EXTINF: -1,Cartoon Network ENG
+http://90.64.95.225:8001/1:0:16:35:1:40:a00000:0:0:0:
+#EXTINF: -1,Nickelodeon ENG
+http://90.64.95.225:8001/1:0:16:30:1:40:a00000:0:0:0:
+#EXTINF: -1,Nick Jr. ENG
+http://90.64.95.225:8001/1:0:16:49:1:40:a00000:0:0:0:
+#EXTINF: -1,MINI TV
+http://90.64.95.225:8001/1:0:16:12d:3:40:a00000:0:0:0:
+#EXTINF: -1,VTM Kids
+http://90.64.95.225:8001/1:0:16:527C:C96:3:EB0000:0:0:0:
+#EXTINF: -1,Disney Jr
+http://90.64.95.225:8001/1:0:1:746B:3F0:1:C00000:0:0:0:
+#EXTINF: -1,E Kids
+http://90.64.95.225:8001/1:0:1:84:5:1:18630AF:0:0:0:
+#EXTINF: -1,BBC CBeebies 
+http://90.64.95.225:8001/1:0:1:7E3:22C4:13E:820000:0:0:0:
+#EXTINF: -1,Rai Yoyo HD
+http://90.64.95.225:8001/1:0:19:4531:30D4:13E:820000:0:0:0:
+#EXTINF: -1,Boing TV
+http://90.64.95.225:8001/1:0:1:749E:41C:1:C00000:0:0:0:
+#EXTINF: -1,######KULFOLDI######
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+#EXTINF: -1,DIGI 24
+http://90.64.95.225:8001/1:0:1:3F6:7:1:E082E56:0:0:0:
+#EXTINF: -1,DocuBox
+http://90.64.95.225:8001/1:0:1:36E3:C8C:3:EB0000:0:0:0:
+#EXTINF: -1,3 sat HD
+http://90.64.95.225:8001/1:0:19:2B8E:3F2:1:C00000:0:0:0:
+#EXTINF: -1,DMAX
+http://90.64.95.225:8001/1:0:19:151A:455:1:C00000:0:0:0:
+#EXTINF: -1,Volksmusic TV
+http://90.64.95.225:8001/1:0:1:32DA:45D:1:C00000:0:0:0:
+#EXTINF: -1,TVR 1
+http://90.64.95.225:8001/1:0:1:76C2:2C0:600:E080000:0:0:0:
+#EXTINF: -1,TVR 2
+http://90.64.95.225:8001/1:0:1:3ED:4:1:E08AF9B:0:0:0:
+#EXTINF: -1,TVR 3
+http://90.64.95.225:8001/1:0:1:76D3:2C0:600:E080000:0:0:0:
+#EXTINF: -1,Agro TV
+http://90.64.95.225:8001/1:0:1:D48:C:1:E082E7C:0:0:0:
+#EXTINF: -1,Prima Sport 1 HD
+http://90.64.95.225:8001/1:0:19:772F:2C1:600:E080000:0:0:0:
+#EXTINF: -1,Prima Sport 3 HD
+http://90.64.95.225:8001/1:0:1:7730:2C1:600:E080000:0:0:0:
+#EXTINF: -1,National24 +
+http://90.64.95.225:8001/1:0:1:76C4:2C0:600:E080000:0:0:0:
+#EXTINF: -1,CS Film
+http://90.64.95.225:8001/1:0:16:335A:C93:3:EB0000:0:0:0:
+#EXTINF: -1,Bibel TV
+http://90.64.95.225:8001/1:0:1:2F5A:454:1:C00000:0:0:0:
+#EXTINF: -1,Deluxe Music
+http://90.64.95.225:8001/1:0:1:41:7:85:C00000:0:0:0:
+#EXTINF: -1,TV5 Monde
+http://90.64.95.225:8001/1:0:1:79E8:2C8:600:E080000:0:0:0:
+#EXTINF: -1,CNN
+http://90.64.95.225:8001/1:0:1:79E3:2C8:600:E080000:0:0:0:
+#EXTINF: -1,Bollywood HD
+http://90.64.95.225:8001/1:0:1:7A06:2C8:600:E080000:0:0:0:
+#EXTINF: -1,PRO TV
+http://90.64.95.225:8001/1:0:1:78BE:2C5:600:E080000:0:0:0:
+#EXTINF: -1,Film+ SK
+http://90.64.95.225:8001/1:0:16:1F4B:AF8:BB:E080000:0:0:0:
+#EXTINF: -1,Dizi TV TR
+http://90.64.95.225:8001/1:0:1:7809:2C3:600:E080000:0:0:0:
+#EXTINF:-1 tvg-id="budapesteuropatv.hu" tvg-name="PESTI TV" timeshift="{TIMESHIFT}" tvg-logo="https://dtvnews.hu/sites/default/files/styles/normal_size/public/wide_images/pestitv_wide.png?itok=C8mQe2F6" group-title="English",Al Jazeera English
+http://90.64.95.225:8001/1:0:1:B60:14:46:E080000:0:0:0:
+#EXTINF: -1,1-2-3 TV
+http://90.64.95.225:8001/1:0:1:296:5:85:C00000:0:0:0:
+#EXTINF: -1,Euronews de
+http://90.64.95.225:8001/1:0:1:79FE:443:1:C00000:0:0:0:
+#EXTINF: -1,Telesur TV
+http://90.64.95.225:8001/1:0:19:7A49:410:1:C00000:0:0:0:
+#EXTINF: -1,Travel XP
+http://90.64.95.225:8001/1:0:1:D36D:830:2:11A0000:0:0:0:
+#EXTINF: -1,CGTN Documentary
+http://90.64.95.225:8001/1:0:1:7ED:14:46:E080000:0:0:0:
+#EXTINF: -1,Fox News
+http://90.64.95.225:8001/1:0:1:749B:41C:1:C00000:0:0:0:
+#EXTINF: -1,Cinemaraton
+http://90.64.95.225:8001/1:0:1:3F4:2:1:E0831B3:0:0:0:
+#EXTINF: -1,Diva Universal
+http://90.64.95.225:8001/1:0:1:B87:7:1:E082E56:0:0:0:
+#EXTINF: -1,Etno 
+http://90.64.95.225:8001/1:0:1:DC0:C:1:E082E7C:0:0:0:
+#EXTINF: -1,ORF 1
+http://90.64.95.225:8001/1:0:1:32C9:45D:1:C00000:0:0:0:
+#EXTINF: -1,ORF 2
+http://90.64.95.225:8001/1:0:1:32CA:45D:1:C00000:0:0:0:
+#EXTINF: -1,ORF III
+http://90.64.95.225:8001/1:0:1:332D:45B:1:C00000:0:0:0:
+#EXTINF: -1,Bild TV
+http://90.64.95.225:8001/1:0:19:2775:409:1:C00000:0:0:0:
+#EXTINF: -1,M�nchen TV
+http://90.64.95.225:8001/1:0:19:16A9:3FF:1:C00000:0:0:0
+#EXTINF: -1,HRT 1
+http://90.64.95.225:8001/1:0:16:127:2:40:a00000:0:0:0:
+#EXTINF: -1,HRT 2
+http://90.64.95.225:8001/1:0:16:128:3:40:A00000:0:0:0:
+#EXTINF: -1,HRT 3
+http://90.64.95.225:8001/1:0:16:C6:3:40:A00000:0:0:0:
+#EXTINF: -1,TV EPG
+http://90.64.95.225:8001/1:0:16:32:1:40:a00000:0:0:0:
+#EXTINF: -1,RTL Crime
+http://90.64.95.225:8001/1:0:19:1BFF:C88:3:EB0000:0:0:0:
+#EXTINF: -1,Vier HD
+http://90.64.95.225:8001/1:0:19:1B91:C88:3:EB0000:0:0:0:
+#EXTINF: -1,Extremadura SAT
+http://90.64.95.225:8001/1:0:1:18F0:3F4:1:C00000:0:0:0:
+#EXTINF: -1,een HD
+http://90.64.95.225:8001/1:0:19:5221:C99:3:EB0000:0:0:0:
+#EXTINF: -1,Rai 1
+http://90.64.95.225:8001/1:0:1:213F:3070:13E:820000:0:0:0:
+#EXTINF: -1,Rai 1 HD
+http://90.64.95.225:8001/1:0:1:D49:1450:13E:820000:0:0:0:
+#EXTINF: -1,Rai 3
+http://90.64.95.225:8001/1:0:1:2141:3070:13E:820000:0:0:0:
+#EXTINF: -1,Rai 3 HD
+http://90.64.95.225:8001/1:0:1:D4B:1450:13E:820000:0:0:0:
+#EXTINF: -1,Rai 4 HD
+http://90.64.95.225:8001/1:0:1:D4D:1450:13E:820000:0:0:0:
+#EXTINF: -1,Rai 5 HD
+http://90.64.95.225:8001/1:0:19:4534:30D4:13E:820000:0:0:0:
+#EXTINF: -1,Rai Gulp HD
+http://90.64.95.225:8001/1:0:19:4530:30D4:13E:820000:0:0:0:
+#EXTINF: -1,Rai Movie HD
+http://90.64.95.225:8001/1:0:1:D4E:1450:13E:820000:0:0:0:
+#EXTINF: -1,Rai Premium HD
+http://90.64.95.225:8001/1:0:1:214A:3070:13E:820000:0:0:0:
+#EXTINF: -1,Rai Scuola HD
+http://90.64.95.225:8001/1:0:1:2149:3070:13E:820000:0:0:0:
+#EXTINF: -1,Rai Sport + HD
+http://90.64.95.225:8001/1:0:19:4532:30D4:13E:820000:0:0:0:
+#EXTINF: -1,Rai Storia HD
+http://90.64.95.225:8001/1:0:1:2146:3070:13E:820000:0:0:0:
+#EXTINF: -1,STV 1 HD
+http://90.64.95.225:8001/1:0:19:3B78:C8D:3:EB0000:0:0:0:
+#EXTINF: -1,######RADIO######
+http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+#EXTINF:-1,Kossuth FM
+https://icast.connectmedia.hu/4736/mr1.mp3
+#EXTINF:-1,Petofi FM
+https://icast.connectmedia.hu/4738/mr2.mp3
+#EXTINF:-1,Antritt FM
+http://stream.radioantritt.hu:8000/Antritt
+#EXTINF:-1,Spirit FM
+https://stream3.hit.hu:8080/spirit1
+#EXTINF:-1,Pannon FM
+http://79.172.194.189:4120/live.mp3
+#EXTINF:-1,SZMR
+http://79.172.194.189:4110/live.mp3
+#EXTINF:-1,GONG FM
+http://stream.gongradio.hu:8000/gong-fm.mp3
+#EXTINF:-1,Pesti kabare
+http://188.166.70.23:8000/pestikabare
+#EXTINF:-1,Retro FM
+http://stream.retroradio.hu/mid.mp3
+#EXTINF:-1,Nota FM
+http://live.notafm.hu:8000/notafm.mp3
+#EXTINF:-1,Pecs FM 
+http://stream.radio1pecs.hu:8200/pecs.mp3
+#EXTINF:-1,Aktiv FM
+http://195.56.65.180:8000/aktiv.mp3
+#EXTINF:-1,Laza FM
+https://stream.lazaradio.com/live.ogg
+#EXTINF:-1,Luxfunt FM
+https://stream1.virtualisan.net/prx/5000/luxfunkradio.mp3
+#EXTINF:-1,Karc FM
+https://karcfm.42netmedia.com:8443/karcfm-high
+#EXTINF:-1,Radio 1
+http://stream.radio1pecs.hu:8200/pecs.mp3
+#EXTINF:-1,Friss FM
+http://stream.frissfm.hu:10050/;
+#EXTINF:-1,Civil FM
+http://civilradio.hu:8000/;
+#EXTINF:-1,Paks FM
+https://stream.42netmedia.com:8443/paks_fm
+#EXTINF:-1,Parlamenti FM
+https://icast.connectmedia.hu/4745/mr5.aac
+#EXTINF:-1,DIKH FM
+https://icast.connectmedia.hu/6121/live.mp3
+#EXTINF:-1,FUN FM
+http://online.funfm.ro:8000/funfm.mp3
+#EXTINF:-1,BAJA FM
+http://92.61.114.191:9950/stream
+#EXTINF:-1,TAMASI FM
+https://stream.42netmedia.com:8443/sc_tamas
